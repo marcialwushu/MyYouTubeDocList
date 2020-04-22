@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
+<a href='{{ site.baseurl }}/' class='home'>
+  <img src='{{ site.baseurl }}/assets/img/home.svg' />
+</a>
 
-  {% include head.html %}
+{{ content }}
 
-  <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>

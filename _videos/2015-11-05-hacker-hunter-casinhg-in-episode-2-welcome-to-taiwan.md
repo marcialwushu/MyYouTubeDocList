@@ -1,5 +1,5 @@
 ---
-title: hacker|HUNTER: Cashing in, Episode 2| Welcome to Taiwan!
+title: hacker|HUNTER |Cashing in, Episode 2| Welcome to Taiwan!
 youtube_id: FUS46N6Di_I
 date: 2015-11-05
 tags: [News, Investigations]
